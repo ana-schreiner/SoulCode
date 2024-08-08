@@ -1,0 +1,12 @@
+footer {
+    background-color: whitesmoke;
+    padding: 8px;
+    border: 1px solid grey;
+    border-radius: 8px;
+    max-width: 330px;
+    margin: 8px auto;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,24 @@
+.mensagem-corpo {
+    background-color: whitesmoke;
+    padding: 8px;
+    border: 1px solid grey;
+    border-radius: 8px;
+    width: 300px;
+    margin: 8px auto;
+}
+
+.postagem {
+    margin-bottom: 20px;
+}
+
+.mensagem-Titulo {
+    margin-top: 20px;
+}
+
+.Image {
+    width: 280px;
+}
+
+.paragrafo {
+    margin-bottom: 10px;
+}

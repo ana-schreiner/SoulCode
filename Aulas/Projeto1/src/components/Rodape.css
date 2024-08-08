@@ -1,0 +1,22 @@
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .direitos {
+    margin-bottom: 10px;
+  }
+  
+  .midias-sociais {
+    margin-top: 10px;
+  }
+  
+  .icon {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+    color: white;
+  }
+  
